@@ -40,7 +40,6 @@ This does a few things:
 
 - clones the code
 - installs python
-- sets up the `pre-commit` cache
 
 ### using this action with custom invocations
 
